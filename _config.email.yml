@@ -1,4 +1,4 @@
-unsubscribe: "{{unsubscribe}}"
+unsubscribe: "#unsubscribe"
 # Post Defaults
 defaults:
   -
