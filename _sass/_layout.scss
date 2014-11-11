@@ -2,7 +2,6 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -16,6 +15,8 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    font-family: $heading-font-family;
+    font-weight: $heading-font-weight;
 
     &,
     &:visited {
@@ -92,7 +93,6 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
@@ -188,7 +188,27 @@
     font-size: 24px;
 }
 
+.subscribe-footer {
 
+    .sendgrid-subscription-widget {
+
+        label input {
+            margin: 0;
+        }
+    }
+}
+
+.sendgrid-subscription-widget {
+
+    label span {
+        display: none;
+    }
+
+    input {
+        font-family: $base-font-family;
+        font-size: $base-font-size;
+    }
+}
 
 /**
  * Posts
@@ -232,5 +252,17 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+}
+
+.email-subscribe {
+
+    .sendgrid-subscription-widget {
+        display: inline-block;
+
+        label span {
+            display: none;
+        }
+
     }
 }

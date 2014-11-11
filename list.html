@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Newsletters</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <div class="email-subscribe">
+    subscribe via email
+    <div class="sendgrid-subscription-widget" data-token="{{ sendgrid_widget_token }}"></div>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://s3.amazonaws.com/subscription-cdn/0.1/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'sendgrid-subscription-widget-js');</script>
+  </div>
+
+</div>

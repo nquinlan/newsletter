@@ -1,0 +1,8 @@
+unsubscribe: "{{unsubscribe}}"
+# Post Defaults
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "email"

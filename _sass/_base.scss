@@ -43,6 +43,8 @@ ul, ol, dl, figure,
 img {
     max-width: 100%;
     vertical-align: middle;
+    display: block;
+    margin: 0 auto;
 }
 
 
@@ -80,7 +82,8 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-family: $heading-font-family;
+    font-weight: $heading-font-weight;
 }
 
 
@@ -121,6 +124,15 @@ blockquote {
 }
 
 
+/**
+ * Horizontal Rules
+ */
+hr {
+    color: $grey-color;
+    border: none;
+    border-top: 1px solid $grey-color-light;
+    margin: $spacing-unit/2 0;
+}
 
 /**
  * Code formatting
