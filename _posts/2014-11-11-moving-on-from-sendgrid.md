@@ -35,8 +35,8 @@ _I'm a voracious content consumer. Here's a sample of what I've dug over the las
 
 - [**How to Measure Anything** by Douglas W. Hubbard](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/0470539399) - While I'm not even finished with this book, it's already a favorite. It talks about discovering means to measure "Intangibles" particularly in business, but also elsewhere. _It's a very good read_, especially if you're interested in feedback or measurement.
 - [**Fire in the Deep** by Vernor Vinge](http://www.amazon.com/Fire-Upon-Deep-Zones-Thought/dp/0812515285) - Any [Hugo Award](http://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel) winning [Space Opera](http://en.wikipedia.org/wiki/Space_opera) is bound to be good. This one is _awesome_, it has wonderful world building, fantastic character development, and all sorts of adventure. Definitely worth a read if you like sci-fi.
-- [**Shadow of the Giant** by Orson Scott Card](http://www.amazon.com/Shadow-Giant-The-Series/dp/0812571398) - The fourth book in the Shadow Series makes reading the entire series worthwhile, while every book in this series _rocks_– this one is 10/10 awesomes. I laughed, I cried, I suprised the person in the seat next to me.
-- [**The Name of the Wind** by Patrick Rothfuss](http://www.amazon.com/The-Name-Wind-Kingkiller-Chronicle/dp/0756404746) - The begining of a three part fantasy saga following one man's story. After hearing it reccomended about 15 bajillion times, I decided I needed to read it. I opened it and _I could not put it down_.
+- [**Shadow of the Giant** by Orson Scott Card](http://www.amazon.com/Shadow-Giant-The-Series/dp/0812571398) - The fourth book in the Shadow Series makes reading the entire series worthwhile, while every book in this series _rocks_– this one is 10/10 awesomes. I laughed, I cried, I surprised the person in the seat next to me.
+- [**The Name of the Wind** by Patrick Rothfuss](http://www.amazon.com/The-Name-Wind-Kingkiller-Chronicle/dp/0756404746) - The beginning of a three part fantasy saga following one man's story. After hearing it recommended about 15 bajillion times, I decided I needed to read it. I opened it and _I could not put it down_.
 
 ### Podcasts
 
@@ -52,7 +52,7 @@ _I'm a voracious content consumer. Here's a sample of what I've dug over the las
 ## <a name="fun-facts"></a> Fun Facts
 - If you lined up every planet next to each other, they would fit in the space between the earth and the moon! [[pic](http://i.imgur.com/hexayzz.jpg)]
 - The Sunfish can and does swim at both vertical _and_ horizontal orientations and has teeth in its throat rather than near its lips.
-- The [Nightshade family](http://en.wikipedia.org/wiki/Solanaceae) contains potatoes, tomatoes, tobacco, chili peppers, and bell pappers and accounted for over $132 billion of economic value in 2012. 
+- The [Nightshade family of plants](http://en.wikipedia.org/wiki/Solanaceae) was worth $132 billion in 2012. It contains potatoes, tomatoes, tobacco, chili peppers, and bell peppers.
 
 ## <a name="content"></a> On Leaving
 _I knew_ I was leaving SendGrid about a month before my last day. _I knew_ my team would need to pickup my responsibilities. _I knew_ I had to start showing them what I did. About a week later, _I knew_ I should have been doing that from the start.
@@ -69,11 +69,11 @@ That's not to say my team couldn't pickup my responsibilities, _of course they c
 
 In my last four weeks at SendGrid, I started involving my coworkers more in my projects and my day-to-day. I started cc'ing them on emails that I hadn't before and exposing processes I had created for myself. By the end, there wasn't something I did that another co-worker didn't at least have a general grasp of. _I wish it had been that way from the beginning._
 
-Some of my duties, I realized should have been shared tasks and if I had only shared knowledge about them sooner, I would have had help along the way. Others, like processes I created for myself, I realized were things that my coworkers could benefit from as I much as I did. With other tasks, my coworkers were able to see improvements that could be made or remove broken components. Finally, some processes improved simply because I made them easier for others to do.
+Some of my duties, I realized, should have been shared tasks and if I had only shared knowledge about them sooner, I would have had help along the way. Others, like processes I created for myself, I realized, were things that my coworkers could benefit from as I much as I did. With other tasks, my coworkers were able to see improvements that could be made or remove broken components. Finally, some processes improved simply because I made them easier for others to do.
 
 ![Live each day as if it were your last… working for your current company of employment](/assets/2014-11-11/tattoo.jpg)
 
-My behavior didn't change much, but it brought a great deal of positive improvement for me and my team. Simply shifting my mindset, from _I'll always be able to do this_ to _someone else should be able to do it, too_ vastly improved the work I did.
+My behavior didn't change drastically, but it brought a great deal of positive improvement for me and my team. Simply shifting my mindset, from _I'll always be able to do this_ to _someone else should be able to do it, too_ vastly improved the work I did. **Going forward, I want to stay in that mindset.**
 
 
 ![That's All Folks!](/assets/2014-11-11/thatsall.gif)
