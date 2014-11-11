@@ -1,6 +1,6 @@
 ---
-title:  "Moving on from SendGrid"
-date:   2014-11-11 06:00:00
+title:  "I'm moving on from SendGrid. Here's what's next."
+date:   2014-11-11 06:00:00 -0500
 ---
 Hey!  
 You may or may not remember signing up to receive emails from me, goodness knows, most people who signed up for this, signed up for it _a while_ ago. If you don't want to receive these emails, don't worry you can [stop them in their tracks, and **unsubscribe**]({{site.unsubscribe}}). If getting these emails is still interesting to you, then: Thanks! I'm glad you want to stick around.
@@ -13,7 +13,7 @@ However, please don't just view this as an email blast– view it as the start 
 
 ---
 
-As you may know, [**last week was my final week at SendGrid**](http://endgrid.nicholasquinlan.com/). I'm moving on to be [The Commissioner of Major League Hacking](https://news.mlh.io/nick-quinlan-joins-major-league-hacking-commissioner-10-29-2014). Besides bringing me one step closer to achieving my lifelong dream of being Batman (I hear [Commissioners](/assets/2014-11-11/gordon.jpg) tend to work closely with him), it give me an opportunity to work with an [amazing team](http://mlh.io/about#team-sect) of people to [empower hackers everywhere](http://mlh.io/about#mission).
+As you may know, [**Halloween was my final day at SendGrid**](http://endgrid.nicholasquinlan.com/). I'm moving on to be [The Commissioner of Major League Hacking](https://news.mlh.io/nick-quinlan-joins-major-league-hacking-commissioner-10-29-2014). Besides bringing me one step closer to achieving my lifelong dream of being Batman (I hear [Commissioners](/assets/2014-11-11/gordon.jpg) tend to work closely with him), it give me an opportunity to work with an [amazing team](http://mlh.io/about#team-sect) of people to [empower hackers everywhere](http://mlh.io/about#mission).
 
 ![na na na na na na na na na na na na na na na na na na na na Batnick!](/assets/2014-11-11/batnick.jpg)
 
